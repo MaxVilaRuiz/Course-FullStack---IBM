@@ -34,3 +34,5 @@ Agile (iterative):
 4. Test
 5. Deploy
 6. Feedback
+
+* See Programming Languages / Organization Methods to learn multiple ways to represent and organize projects or algorithms.

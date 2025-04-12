@@ -41,4 +41,4 @@ while myval2 < 90:
     print(myval2)
     if 80 < myval2:
         break
-    myval2 += 9
+    myval2 += 8

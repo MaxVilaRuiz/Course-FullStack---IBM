@@ -15,6 +15,9 @@ Hybrid Cloud:
 - Have the Benefics of both services Public and Private Cloud.
 - Cons: Hybrid Cloud are complex to maintain.
 
+Multi-Cloud Hybrid:
+- Similar to Hybrid Cloud, but it includes more cloud types.
+
 Community Cloud:
 - Is a cloud owned and managed by a community with similar intereses so they work for the same goals.
 - All the users have equal power, so all have to pass control and security test to make sure the community have a good security infrastructure.

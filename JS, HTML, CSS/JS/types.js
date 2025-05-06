@@ -16,3 +16,7 @@ var newDate2 = new Date(2012, 0, 17); // Created from a number
 //Error Types:
 // TypeError, RangeError, URIError, EvalError, ReferenceError
 throw new Error("Say why is an error"); // Create an error
+function error(item) {
+    alert('There is a problem in this item.')
+    item.focus(); // To focus the error.
+}

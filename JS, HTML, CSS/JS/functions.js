@@ -1,3 +1,8 @@
+// AJAX:
+// Asynchronous JavaScript and XML. Functions that wait for the response of the backend.
+
+
+
 // Prototypes / Structs / Classes: 
 function Car(make, model, year) {
     // 'this' refer to the object that is refered to the function.

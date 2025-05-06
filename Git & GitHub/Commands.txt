@@ -1,5 +1,7 @@
 mkdir NameOfTheFolder -> To create a folder with the name "NameOfTheFolder".
 
+touch NameOfTheDocument -> To create a document with the name "NameOfTheFolder".
+
 cd NameOfTheFolder -> To change the direction of the pc to the folder called "NameOfTheFolder".
 
 ls -> To show a list of the documents in the direction where the pc is.
@@ -30,8 +32,6 @@ git clone repositoryUrl -> To clone a repository into a certain folder.
 git pull -> To pull the changes.
 
 git push origin NameOfTheBranch -> To push the commit to the branch "NameOfTheBranch".
-
-git version -> To show the Git version installed on your system.
 
 git diff -> To show the differences between the actual directory and the last commit.
 git diff NameOfTheBranch NameOfTheBranch2 -> To show the differences between to branches.

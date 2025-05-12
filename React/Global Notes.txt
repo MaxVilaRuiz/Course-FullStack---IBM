@@ -1,5 +1,5 @@
-To create a React project with Vite:
-1. npm create vite@latest
+To create a React:
+1. npx create-react-app app-name // npm create vite@latest (creation with Vue / Vite)
 2. Select a framework (React)
 3. Select a variant (JS)
 4. cd nameOfTheFolder

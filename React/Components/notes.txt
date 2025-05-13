@@ -33,7 +33,7 @@ States:
 - Cannot access or modify data from outsite
 - Components create and manage their own state data
 - State management allows you to manage data that can change over time within a component
-- Used to manage data and make a component dynamic and interactive
+- Used to manage data and make a component dynamic and interactive (useState())
 - Modify with 'setState()'
 
 Props (propieties):
@@ -43,4 +43,15 @@ Props (propieties):
 - Read-only data
 
 
--> See examples
+Functions:
+- 'useEffect()' is used to perform side effects and execute the function as soon as the page loads.
+-> Look the notes.jsx
+
+
+Redux:
+- Redux is a container for states that provides a centralized store for managing application state and enables predictable state updates through actions and reducers.
+- To install, run 'npm install @reduxjs/toolkit.' in the terminal
+-> Consult Redux functions before creating a project to look for efficiencies
+
+
+-> See examples in nodes.jsx

@@ -32,11 +32,13 @@ Class Component Lifecycle:
 States:
 - Cannot access or modify data from outsite
 - Components create and manage their own state data
-- Used to manage data
+- State management allows you to manage data that can change over time within a component
+- Used to manage data and make a component dynamic and interactive
 - Modify with 'setState()'
 
 Props (propieties):
 - Receives data from parent in form of propieties
+- You pass a props object as a parameter into a component.
 - Used to pass data
 - Read-only data
 
